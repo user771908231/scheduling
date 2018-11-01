@@ -17,7 +17,7 @@ A web interface for manage task scheduling in laravel.
 ## Installation
 
 ```
-$ composer require laravel-admin-ext/scheduling
+$ composer require user771908231-ext/scheduling
 
 
 $ php artisan admin:import scheduling
